@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Santhosh Jothimani
+- I am a Software Engineer
 - 👀 I’m interested in Data Science and Machine Learning
 
 
